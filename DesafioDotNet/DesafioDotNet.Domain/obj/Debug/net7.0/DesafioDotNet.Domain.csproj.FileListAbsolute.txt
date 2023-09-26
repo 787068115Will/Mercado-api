@@ -1,0 +1,15 @@
+/Users/jonathansantiago/Documents/Git/Particular/Cursos/DesafioDotNet/DesafioDotNet.Domain/bin/Debug/net7.0/DesafioDotNet.Domain.deps.json
+/Users/jonathansantiago/Documents/Git/Particular/Cursos/DesafioDotNet/DesafioDotNet.Domain/bin/Debug/net7.0/DesafioDotNet.Domain.dll
+/Users/jonathansantiago/Documents/Git/Particular/Cursos/DesafioDotNet/DesafioDotNet.Domain/bin/Debug/net7.0/DesafioDotNet.Domain.pdb
+/Users/jonathansantiago/Documents/Git/Particular/Cursos/DesafioDotNet/DesafioDotNet.Domain/bin/Debug/net7.0/DesafioDotNet.Shared.dll
+/Users/jonathansantiago/Documents/Git/Particular/Cursos/DesafioDotNet/DesafioDotNet.Domain/bin/Debug/net7.0/DesafioDotNet.Shared.pdb
+/Users/jonathansantiago/Documents/Git/Particular/Cursos/DesafioDotNet/DesafioDotNet.Domain/obj/Debug/net7.0/DesafioDotNet.Domain.csproj.AssemblyReference.cache
+/Users/jonathansantiago/Documents/Git/Particular/Cursos/DesafioDotNet/DesafioDotNet.Domain/obj/Debug/net7.0/DesafioDotNet.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jonathansantiago/Documents/Git/Particular/Cursos/DesafioDotNet/DesafioDotNet.Domain/obj/Debug/net7.0/DesafioDotNet.Domain.AssemblyInfoInputs.cache
+/Users/jonathansantiago/Documents/Git/Particular/Cursos/DesafioDotNet/DesafioDotNet.Domain/obj/Debug/net7.0/DesafioDotNet.Domain.AssemblyInfo.cs
+/Users/jonathansantiago/Documents/Git/Particular/Cursos/DesafioDotNet/DesafioDotNet.Domain/obj/Debug/net7.0/DesafioDotNet.Domain.csproj.CoreCompileInputs.cache
+/Users/jonathansantiago/Documents/Git/Particular/Cursos/DesafioDotNet/DesafioDotNet.Domain/obj/Debug/net7.0/DesafioDotNet.Domain.csproj.CopyComplete
+/Users/jonathansantiago/Documents/Git/Particular/Cursos/DesafioDotNet/DesafioDotNet.Domain/obj/Debug/net7.0/DesafioDotNet.Domain.dll
+/Users/jonathansantiago/Documents/Git/Particular/Cursos/DesafioDotNet/DesafioDotNet.Domain/obj/Debug/net7.0/refint/DesafioDotNet.Domain.dll
+/Users/jonathansantiago/Documents/Git/Particular/Cursos/DesafioDotNet/DesafioDotNet.Domain/obj/Debug/net7.0/DesafioDotNet.Domain.pdb
+/Users/jonathansantiago/Documents/Git/Particular/Cursos/DesafioDotNet/DesafioDotNet.Domain/obj/Debug/net7.0/ref/DesafioDotNet.Domain.dll

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "esKq7hbHmWk0WlUD6V2+w3vcGxVCsx8jfUrqgo+ScsU=",
+  "Source": "DesafioDotNet.Api",
+  "BasePath": "_content/DesafioDotNet.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "gdndS6xEzFA/j6dPKbyU2weUJtHFPBU2M5A28ab9ecFuJc7VY+CMQmzTxRrQseSKdAVSK1mzioMOIB9Rt+D+rA==",
+  "success": true,
+  "projectFilePath": "/Users/jonathansantiago/Documents/Git/Particular/Cursos/Restaurante/Restaurante.Domain/Restaurante.Domain.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://nuget.tjmt.jus.br/repository/nuget/'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}

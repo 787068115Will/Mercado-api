@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "DesafioDotNet.DataBase/1.0.0": {
+        "dependencies": {
+          "DesafioDotNet.Domain": "1.0.0",
+          "DesafioDotNet.Shared": "1.0.0"
+        },
+        "runtime": {
+          "DesafioDotNet.DataBase.dll": {}
+        }
+      },
+      "DesafioDotNet.Domain/1.0.0": {
+        "dependencies": {
+          "DesafioDotNet.Shared": "1.0.0"
+        },
+        "runtime": {
+          "DesafioDotNet.Domain.dll": {}
+        }
+      },
+      "DesafioDotNet.Shared/1.0.0": {
+        "runtime": {
+          "DesafioDotNet.Shared.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DesafioDotNet.DataBase/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DesafioDotNet.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DesafioDotNet.Shared/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

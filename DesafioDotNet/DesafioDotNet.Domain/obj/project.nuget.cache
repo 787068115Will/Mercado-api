@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "TchbyiYStNcxf855mZM6HSvhh/kuAHVWJlkXv3HcSWGicMZl0N6fl26fqeay+bA2Y7gUDhB8esQiOxUVFGsY0A==",
+  "success": true,
+  "projectFilePath": "/Users/jonathansantiago/Documents/Git/Particular/Cursos/DesafioDotNet/DesafioDotNet.Domain/DesafioDotNet.Domain.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://nuget.tjmt.jus.br/repository/nuget/'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}

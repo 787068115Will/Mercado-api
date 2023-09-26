@@ -1,0 +1,101 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "DesafioDotNet.Shared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/DesafioDotNet.Shared.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DesafioDotNet.Shared.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DesafioDotNet.Shared/1.0.0": {
+      "type": "project",
+      "path": "../DesafioDotNet.Shared/DesafioDotNet.Shared.csproj",
+      "msbuildProject": "../DesafioDotNet.Shared/DesafioDotNet.Shared.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "DesafioDotNet.Shared >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/Users/jonathansantiago/.nuget/packages/": {},
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/jonathansantiago/Documents/Git/Particular/Cursos/DesafioDotNet/DesafioDotNet.Domain/DesafioDotNet.Domain.csproj",
+      "projectName": "DesafioDotNet.Domain",
+      "projectPath": "/Users/jonathansantiago/Documents/Git/Particular/Cursos/DesafioDotNet/DesafioDotNet.Domain/DesafioDotNet.Domain.csproj",
+      "packagesPath": "/Users/jonathansantiago/.nuget/packages/",
+      "outputPath": "/Users/jonathansantiago/Documents/Git/Particular/Cursos/DesafioDotNet/DesafioDotNet.Domain/obj/",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "/Users/jonathansantiago/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "http://nuget.tjmt.jus.br/repository/nuget/": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {
+            "/Users/jonathansantiago/Documents/Git/Particular/Cursos/DesafioDotNet/DesafioDotNet.Shared/DesafioDotNet.Shared.csproj": {
+              "projectPath": "/Users/jonathansantiago/Documents/Git/Particular/Cursos/DesafioDotNet/DesafioDotNet.Shared/DesafioDotNet.Shared.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.306/RuntimeIdentifierGraph.json"
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://nuget.tjmt.jus.br/repository/nuget/'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}

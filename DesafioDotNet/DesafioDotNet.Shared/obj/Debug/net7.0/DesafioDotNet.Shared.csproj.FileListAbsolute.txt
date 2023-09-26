@@ -1,0 +1,12 @@
+/Users/jonathansantiago/Documents/Git/Particular/Cursos/DesafioDotNet/DesafioDotNet.Shared/bin/Debug/net7.0/DesafioDotNet.Shared.deps.json
+/Users/jonathansantiago/Documents/Git/Particular/Cursos/DesafioDotNet/DesafioDotNet.Shared/bin/Debug/net7.0/DesafioDotNet.Shared.dll
+/Users/jonathansantiago/Documents/Git/Particular/Cursos/DesafioDotNet/DesafioDotNet.Shared/bin/Debug/net7.0/DesafioDotNet.Shared.pdb
+/Users/jonathansantiago/Documents/Git/Particular/Cursos/DesafioDotNet/DesafioDotNet.Shared/obj/Debug/net7.0/DesafioDotNet.Shared.csproj.AssemblyReference.cache
+/Users/jonathansantiago/Documents/Git/Particular/Cursos/DesafioDotNet/DesafioDotNet.Shared/obj/Debug/net7.0/DesafioDotNet.Shared.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jonathansantiago/Documents/Git/Particular/Cursos/DesafioDotNet/DesafioDotNet.Shared/obj/Debug/net7.0/DesafioDotNet.Shared.AssemblyInfoInputs.cache
+/Users/jonathansantiago/Documents/Git/Particular/Cursos/DesafioDotNet/DesafioDotNet.Shared/obj/Debug/net7.0/DesafioDotNet.Shared.AssemblyInfo.cs
+/Users/jonathansantiago/Documents/Git/Particular/Cursos/DesafioDotNet/DesafioDotNet.Shared/obj/Debug/net7.0/DesafioDotNet.Shared.csproj.CoreCompileInputs.cache
+/Users/jonathansantiago/Documents/Git/Particular/Cursos/DesafioDotNet/DesafioDotNet.Shared/obj/Debug/net7.0/DesafioDotNet.Shared.dll
+/Users/jonathansantiago/Documents/Git/Particular/Cursos/DesafioDotNet/DesafioDotNet.Shared/obj/Debug/net7.0/refint/DesafioDotNet.Shared.dll
+/Users/jonathansantiago/Documents/Git/Particular/Cursos/DesafioDotNet/DesafioDotNet.Shared/obj/Debug/net7.0/DesafioDotNet.Shared.pdb
+/Users/jonathansantiago/Documents/Git/Particular/Cursos/DesafioDotNet/DesafioDotNet.Shared/obj/Debug/net7.0/ref/DesafioDotNet.Shared.dll

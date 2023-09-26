@@ -1,0 +1,17 @@
+/Users/jonathansantiago/Documents/Git/Particular/Cursos/DesafioDotNet/DesafioDotNet.DataBase/bin/Debug/net7.0/DesafioDotNet.DataBase.deps.json
+/Users/jonathansantiago/Documents/Git/Particular/Cursos/DesafioDotNet/DesafioDotNet.DataBase/bin/Debug/net7.0/DesafioDotNet.DataBase.dll
+/Users/jonathansantiago/Documents/Git/Particular/Cursos/DesafioDotNet/DesafioDotNet.DataBase/bin/Debug/net7.0/DesafioDotNet.DataBase.pdb
+/Users/jonathansantiago/Documents/Git/Particular/Cursos/DesafioDotNet/DesafioDotNet.DataBase/bin/Debug/net7.0/DesafioDotNet.Domain.dll
+/Users/jonathansantiago/Documents/Git/Particular/Cursos/DesafioDotNet/DesafioDotNet.DataBase/bin/Debug/net7.0/DesafioDotNet.Shared.dll
+/Users/jonathansantiago/Documents/Git/Particular/Cursos/DesafioDotNet/DesafioDotNet.DataBase/bin/Debug/net7.0/DesafioDotNet.Domain.pdb
+/Users/jonathansantiago/Documents/Git/Particular/Cursos/DesafioDotNet/DesafioDotNet.DataBase/bin/Debug/net7.0/DesafioDotNet.Shared.pdb
+/Users/jonathansantiago/Documents/Git/Particular/Cursos/DesafioDotNet/DesafioDotNet.DataBase/obj/Debug/net7.0/DesafioDotNet.DataBase.csproj.AssemblyReference.cache
+/Users/jonathansantiago/Documents/Git/Particular/Cursos/DesafioDotNet/DesafioDotNet.DataBase/obj/Debug/net7.0/DesafioDotNet.DataBase.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jonathansantiago/Documents/Git/Particular/Cursos/DesafioDotNet/DesafioDotNet.DataBase/obj/Debug/net7.0/DesafioDotNet.DataBase.AssemblyInfoInputs.cache
+/Users/jonathansantiago/Documents/Git/Particular/Cursos/DesafioDotNet/DesafioDotNet.DataBase/obj/Debug/net7.0/DesafioDotNet.DataBase.AssemblyInfo.cs
+/Users/jonathansantiago/Documents/Git/Particular/Cursos/DesafioDotNet/DesafioDotNet.DataBase/obj/Debug/net7.0/DesafioDotNet.DataBase.csproj.CoreCompileInputs.cache
+/Users/jonathansantiago/Documents/Git/Particular/Cursos/DesafioDotNet/DesafioDotNet.DataBase/obj/Debug/net7.0/DesafioDotNet.DataBase.csproj.CopyComplete
+/Users/jonathansantiago/Documents/Git/Particular/Cursos/DesafioDotNet/DesafioDotNet.DataBase/obj/Debug/net7.0/DesafioDotNet.DataBase.dll
+/Users/jonathansantiago/Documents/Git/Particular/Cursos/DesafioDotNet/DesafioDotNet.DataBase/obj/Debug/net7.0/refint/DesafioDotNet.DataBase.dll
+/Users/jonathansantiago/Documents/Git/Particular/Cursos/DesafioDotNet/DesafioDotNet.DataBase/obj/Debug/net7.0/DesafioDotNet.DataBase.pdb
+/Users/jonathansantiago/Documents/Git/Particular/Cursos/DesafioDotNet/DesafioDotNet.DataBase/obj/Debug/net7.0/ref/DesafioDotNet.DataBase.dll

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/DesafioDotNet.Api.props" />
+</Project>

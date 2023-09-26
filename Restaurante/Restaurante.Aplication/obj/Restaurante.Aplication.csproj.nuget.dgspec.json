@@ -1,0 +1,64 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/jonathansantiago/Documents/Git/Particular/Cursos/Restaurante/Restaurante.Aplication/Restaurante.Aplication.csproj": {}
+  },
+  "projects": {
+    "/Users/jonathansantiago/Documents/Git/Particular/Cursos/Restaurante/Restaurante.Aplication/Restaurante.Aplication.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/jonathansantiago/Documents/Git/Particular/Cursos/Restaurante/Restaurante.Aplication/Restaurante.Aplication.csproj",
+        "projectName": "Restaurante.Aplication",
+        "projectPath": "/Users/jonathansantiago/Documents/Git/Particular/Cursos/Restaurante/Restaurante.Aplication/Restaurante.Aplication.csproj",
+        "packagesPath": "/Users/jonathansantiago/.nuget/packages/",
+        "outputPath": "/Users/jonathansantiago/Documents/Git/Particular/Cursos/Restaurante/Restaurante.Aplication/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/jonathansantiago/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "http://nuget.tjmt.jus.br/repository/nuget/": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.306/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net7.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\DesafioDotNet.DataBase\DesafioDotNet.DataBase.csproj" />
+      <ProjectReference Include="..\DesafioDotNet.Domain\DesafioDotNet.Domain.csproj" />
+      <ProjectReference Include="..\DesafioDotNet.Shared\DesafioDotNet.Shared.csproj" />
+    </ItemGroup>
+
+
+
+</Project>
